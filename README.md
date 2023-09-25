@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
- 
+ ![Autodesk Fusion 360 (Education License) 25-09-2023 16_08_15 (2)](https://github.com/saravanan2607/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/121395849/289ca88f-a7db-4411-99a5-aeccaeb17a9b)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
